@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - block
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - ground
+  - simps
+  - enemys
+  - cliff
+  - enemysfly
+  - bak
+  - boss1
+  - boss3
+  - boss2
+  - Banana and Cheese0
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: back cave
+    uniqueID: 3062765023
+    locked: 0
+  - name: middle cave
+    uniqueID: 1006278551
+    locked: 0
+  - name: back rocks
+    uniqueID: 4012365655
+    locked: 0
+  - name: front rocks
+    uniqueID: 475504519
+    locked: 0
+  - name: back clouds
+    uniqueID: 850935191
+    locked: 0
+  - name: back trees
+    uniqueID: 1655001343
+    locked: 0
+  - name: mountains
+    uniqueID: 22468801
+    locked: 0
+  - name: middle trees
+    uniqueID: 2382606003
+    locked: 0
+  - name: front clouds
+    uniqueID: 2486972691
+    locked: 0
+  - name: Background
+    uniqueID: 1114748703
+    locked: 0
+  - name: background gruta
+    uniqueID: 3859525573
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Boss
+    uniqueID: 2740865611
+    locked: 0
+  - name: player
+    uniqueID: 3152615997
+    locked: 0
+  - name: ground
+    uniqueID: 1823774825
+    locked: 0
+  - name: boss
+    uniqueID: 1867339163
+    locked: 0
